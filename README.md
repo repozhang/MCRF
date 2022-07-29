@@ -111,4 +111,13 @@ Run `cd pybert/model` to prepare to train the bert-CRF model.
 5. run `bash scripts/run_bert_MCRF.sh` with 2 GPUs to train the bert-MCRF model. 
 
 
+# Please refer to our paper:
+@inproceedings{zhang2022improving,
+  title={Improving Multi-label Malevolence Detection in Dialogues through Multi-faceted Label Correlation Enhancement},
+  author={Zhang, Yangjun and Ren, Pengjie and Deng, Wentao and Chen, Zhumin and Rijke, Maarten},
+  booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={3543--3555},
+  year={2022}
+}
+
 
